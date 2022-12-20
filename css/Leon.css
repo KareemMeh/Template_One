@@ -138,6 +138,7 @@ body {
     text-decoration: none;
     padding: 15px;
     transition: 0.3s;
+    color: var(--main-color);
     
   }
   .header .links ul li:not(:last-child) a {
